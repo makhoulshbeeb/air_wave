@@ -1,0 +1,6 @@
+[submodule "air_wave_front"]
+	path = air_wave_front
+	url = https://github.com/potentialwook/air_wave_front.git
+[submodule "air_wave_back"]
+	path = air_wave_back
+	url = https://github.com/potentialwook/air_wave_back.git
